@@ -1,0 +1,132 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 1,
+    "pending": 0,
+    "failures": 1,
+    "start": "2018-11-17T13:57:40.209Z",
+    "end": "2018-11-17T13:58:13.974Z",
+    "duration": 33765,
+    "testsRegistered": 2,
+    "passPercent": 50,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false,
+    "passPercentClass": "danger",
+    "pendingPercentClass": "danger"
+  },
+  "suites": {
+    "uuid": "be7cca0a-4a74-406a-98b3-eb50869b7e98",
+    "title": "",
+    "fullFile": "",
+    "file": "",
+    "beforeHooks": [],
+    "afterHooks": [],
+    "tests": [],
+    "suites": [
+      {
+        "uuid": "c832740a-d200-4a6b-a1fc-f50d8435c846",
+        "title": "Test Suite",
+        "fullFile": "D:\\JS\\Tranning\\webdriver-js\\test.js",
+        "file": "\\test.js",
+        "beforeHooks": [
+          {
+            "title": "\"before each\" hook",
+            "fullTitle": "Test Suite \"before each\" hook",
+            "timedOut": false,
+            "duration": 3414,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "driver = await new Builder().forBrowser('chrome').build();\nawait driver.manage().setTimeouts({implicit: TIMEOUT, pageLoad: TIMEOUT, script: TIMEOUT});\nawait driver.manage().window().maximize();",
+            "err": {},
+            "isRoot": false,
+            "uuid": "96092061-fe44-4767-9b81-4bc563018266",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "afterHooks": [
+          {
+            "title": "\"after each\" hook",
+            "fullTitle": "Test Suite \"after each\" hook",
+            "timedOut": false,
+            "duration": 89,
+            "pass": false,
+            "fail": false,
+            "pending": false,
+            "code": "await driver.quit();\nconsole.log(\"close the browser\");",
+            "err": {},
+            "isRoot": false,
+            "uuid": "c0c57254-2666-46b5-846a-34de76b175f5",
+            "isHook": true,
+            "skipped": false
+          }
+        ],
+        "tests": [
+          {
+            "title": "Test 1 - Log in to the site",
+            "fullTitle": "Test Suite Test 1 - Log in to the site",
+            "timedOut": false,
+            "duration": 11555,
+            "state": "passed",
+            "speed": "slow",
+            "pass": true,
+            "fail": false,
+            "pending": false,
+            "code": "await driver.get(environment );\nawait driver.wait(until.elementLocated(By.id(\"tenant\")),5000).sendKeys(\"alona-qa\");\nawait driver.findElement(By.className(\"button next-btn\")).click();\nlet passwordElement = await driver.wait(until.elementLocated(By.css('[type=password]')), 5000);\nconsole.log(\"waited and found password element\");\nawait passwordElement.sendKeys(userPassword);\nconsole.log(\"enter password\");\nawait driver.findElement(By.css('[type=email]')).sendKeys(userName);\nconsole.log(\"enter email\");\nawait driver.findElement(By.css('[class=auth0-label-submit]')).click();\nconsole.log(\"the user is log in\");\nawait driver.findElement(By.className(\"dashboard-title\")).getText().then(function(dashboardTitle){\n    assert(dashboardTitle === \"My Contracts\", \"Dashboard title: \" + dashboardTitle + \"doesn't match expected\");\n});",
+            "err": {},
+            "isRoot": false,
+            "uuid": "b14c0e1c-321b-49d8-957c-de1989ecd42f",
+            "isHook": false,
+            "skipped": false
+          },
+          {
+            "title": "Test 2 - Log in to the site",
+            "fullTitle": "Test Suite Test 2 - Log in to the site",
+            "timedOut": false,
+            "duration": 14693,
+            "state": "failed",
+            "pass": false,
+            "fail": true,
+            "pending": false,
+            "code": "await driver.get(environment );\nawait driver.wait(until.elementLocated(By.id(\"tenant\")),5000).sendKeys(\"alona-qa\");\nawait driver.findElement(By.className(\"button next-bn\")).click();",
+            "err": {
+              "message": "NoSuchElementError: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".button.next-bn\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.16299 x86_64)",
+              "estack": "NoSuchElementError: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".button.next-bn\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.16299 x86_64)\n    at Object.checkLegacyResponse (node_modules\\selenium-webdriver\\lib\\error.js:585:15)\n    at parseHttpResponse (node_modules\\selenium-webdriver\\lib\\http.js:533:13)\n    at Executor.execute (node_modules\\selenium-webdriver\\lib\\http.js:468:26)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:189:7)"
+            },
+            "isRoot": false,
+            "uuid": "2595849b-45ab-4837-bb94-cf034131476a",
+            "isHook": false,
+            "skipped": false
+          }
+        ],
+        "suites": [],
+        "passes": [
+          "b14c0e1c-321b-49d8-957c-de1989ecd42f"
+        ],
+        "failures": [
+          "2595849b-45ab-4837-bb94-cf034131476a"
+        ],
+        "pending": [],
+        "skipped": [],
+        "duration": 26248,
+        "root": false,
+        "rootEmpty": false,
+        "_timeout": 60000
+      }
+    ],
+    "passes": [],
+    "failures": [],
+    "pending": [],
+    "skipped": [],
+    "duration": 0,
+    "root": true,
+    "rootEmpty": true,
+    "_timeout": 2000
+  },
+  "copyrightYear": 2018
+}
