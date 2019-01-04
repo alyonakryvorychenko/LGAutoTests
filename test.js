@@ -98,6 +98,7 @@ const TIMEOUT = 10000;
      // });
 
          it ("Test 4 - Create new playbook", async function() {
+             //test for playbook
              await driver.findElement(By.css("div.dashboard__nav li.ng-star-inserted")).click();
              await driver.wait(until.elementTextContains(driver.findElement(By.className("dashboard-title")), "Policy Center"),5000);
              console.log("waite Policy Center page");
