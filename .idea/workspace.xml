@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bad02e3-7898-4c20-9129-3bc24172e43d" name="Default Changelist" comment="" />
+    <list default="true" id="7bad02e3-7898-4c20-9129-3bc24172e43d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,97 +14,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-978026214">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="8" />
-          <entry key="json" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="2351" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="2351" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1834874808">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.54" value="1" />
-          <entry key="project.open.time.59" value="1" />
-          <entry key="project.open.time.77" value="1" />
-          <entry key="project.open.time.79" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="js" value="4450" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="4450" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="8" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+            <state relative-caret-position="286">
+              <caret line="115" column="73" lean-forward="true" selection-start-line="115" selection-start-column="73" selection-end-line="115" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_video.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="18" selection-start-line="8" selection-start-column="12" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -115,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -122,155 +53,15 @@
         <option value="$PROJECT_DIR$/test2.js" />
         <option value="$PROJECT_DIR$/test_example.js" />
         <option value="$PROJECT_DIR$/acync_test.js" />
-        <option value="$PROJECT_DIR$/../../JS+Mocha+test/test file.js" />
-        <option value="$PROJECT_DIR$/../../JS+Mocha+test/fileTest.js" />
+        <option value="$USER_HOME$/JS+Mocha+test/test file.js" />
+        <option value="$USER_HOME$/JS+Mocha+test/fileTest.js" />
         <option value="$PROJECT_DIR$/fileForChecks.js" />
         <option value="$PROJECT_DIR$/test_video.js" />
         <option value="$PROJECT_DIR$/test.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/assertion-error/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/babel-runtime/node_modules/core-js/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/babel-runtime/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/browser-stdout/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/chai/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/check-error/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/cliui/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/code-point-at/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/color-convert/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/color-name/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/commander/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/core-js/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/cross-spawn/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/dateformat/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/deep-eql/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/diff/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/es6-promise/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/execa/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/find-up/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/fs-extra/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/fsu/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/get-caller-file/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/get-func-name/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/get-stream/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/graceful-fs/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/growl/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/has-flag/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/he/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/immediate/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/invert-kv/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/is-stream/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/isexe/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/js-tokens/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/jsonfile/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/jszip/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/lcid/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/lie/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/locate-path/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/lodash.isfunction/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/loose-envify/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/lru-cache/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mem/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mimic-fn/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mocha/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mocha/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mochawesome-report-generator/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/mochawesome/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/npm-run-path/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/number-is-nan/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/opener/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/os-locale/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/os-tmpdir/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/p-finally/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/p-limit/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/p-locate/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/p-try/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/pako/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/path-exists/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/path-key/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/pathval/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/prop-types/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/pseudomap/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/react-dom/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/react/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/require-directory/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/require-main-filename/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/rimraf/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/sax/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/scheduler/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/selenium-webdriver/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/set-blocking/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/shebang-command/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/shebang-regex/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/signal-exit/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/strip-eof/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/tcomb-validation/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/tcomb/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/tmp/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/type-detect/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/universalify/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/validator/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/which-module/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/wrappy/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/xml2js/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/xmlbuilder/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/y18n/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/yallist/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/yargs-parser/package.json" />
-      <path value="$PROJECT_DIR$/node_modules/yargs/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1250" />
     <option name="y" value="169" />
     <option name="width" value="1382" />
@@ -306,13 +97,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="webdriver-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdriver-js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webdriver-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webdriver-js" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="LGAutoTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LGAutoTests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,12 +133,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Mocha.Mocha Test">
-    <configuration name="Node test" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Node test" type="NodeJSConfigurationType" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Mocha Test" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <configuration name="Mocha Test" type="mocha-javascript-test-runner">
       <node-interpreter>project</node-interpreter>
       <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -361,20 +148,8 @@
       <test-file>$PROJECT_DIR$/test.js</test-file>
       <method v="2" />
     </configuration>
-    <configuration name="Unnamed" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/fileForChecks.js</test-file>
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Mocha.Mocha Test" />
-      <item itemvalue="Mocha.Unnamed" />
       <item itemvalue="Node.js.Node test" />
     </list>
   </component>
@@ -403,43 +178,45 @@
       <workItem from="1545680344576" duration="2726000" />
       <workItem from="1545743869366" duration="9883000" />
       <workItem from="1545924114184" duration="6295000" />
+      <workItem from="1547062843563" duration="1175000" />
+      <workItem from="1547064071515" duration="4249000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Mocha_Test - 2018.12.30 at 17h 50m 32s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 22h 49m 46s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 17h 52m 33s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 22h 55m 01s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 17h 54m 46s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 01m 01s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 17h 57m 44s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 01m 41s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 18h 10m 16s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 02m 48s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 18h 10m 45s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 03m 31s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 18h 11m 52s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 05m 37s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 18h 12m 56s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 09m 07s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 18h 13m 44s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 09m 44s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha_Test - 2018.12.30 at 18h 18m 14s.xml">
+    <history-entry file="Mocha_Test - 2019.01.09 at 23h 10m 37s.xml">
       <configuration name="Mocha Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93150000" />
+    <option name="totallyTimeSpent" value="98574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,22 +228,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17175975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12118019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2505423" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44203684" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49947312" weight="0.489154" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49947312" weight="0.48862407" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.489154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -476,17 +253,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test.js</url>
-          <line>100</line>
+          <line>107</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -515,28 +289,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/until.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1195">
-          <caret line="300" column="60" selection-start-line="300" selection-start-column="53" selection-end-line="300" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../JS+Mocha+test/test file.js" />
-    <entry file="file://$PROJECT_DIR$/../../JS+Mocha+test/fileTest.js" />
+    <entry file="file://$USER_HOME$/JS+Mocha+test/test file.js" />
+    <entry file="file://$USER_HOME$/JS+Mocha+test/fileTest.js" />
     <entry file="file://$PROJECT_DIR$/fileTest.js" />
     <entry file="file://$PROJECT_DIR$/fileForChecks.js" />
-    <entry file="file://$PROJECT_DIR$/test.js">
+    <entry file="file://$PROJECT_DIR$/test_video.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_video.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/until.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" selection-start-line="8" selection-start-column="12" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="206">
+          <caret line="300" column="17" selection-start-line="300" selection-start-column="17" selection-end-line="300" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="115" column="73" lean-forward="true" selection-start-line="115" selection-start-column="73" selection-end-line="115" selection-end-column="73" />
         </state>
       </provider>
     </entry>
