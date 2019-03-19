@@ -12,6 +12,7 @@ class LoginPage {
     }
 
     navigateToTestUrl(testURL) {
+        console.log('open URL');
         this.driver.get(testURL);
     }
 
@@ -25,25 +26,30 @@ class LoginPage {
     // }
 
     enterAccountName(txt) {
+        console.log('enter account name');
         this.driver.wait(until.elementLocated(By.id("tenant")), TIMEOUT).sendKeys(txt);
     }
 
     clickNextBtn() {
+        console.log('click next btn');
         this.driver.findElement(By.className("button next-btn")).click();
     }
 
     enterLoginValue(loginValue) {
+        console.log('enter login value');
         this.driver.wait(until.elementLocated(By.css('[type=email]')), TIMEOUT).sendKeys(loginValue);
 
     }
 
     enterPasswordValue(passwordValue) {
+        console.log('enter password');
         this.driver.wait(until.elementLocated(By.css('[type=password]')), TIMEOUT).sendKeys(passwordValue);
     }
 
     clickLoginBtn() {
+        console.log('click login btn');
         this.driver.findElement(By.css('[class=auth0-label-submit]')).click()
     }
 }
 
-module.exports = new LoginPage()
+module.exports = LoginPage;

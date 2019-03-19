@@ -5,7 +5,7 @@ const tenant = "alona-qa";
 const environment = "http://app.stg.lawgeex.com";
 const userName = "alona@lawgeex.com";
 const userPassword = "qwe123!@#";
-const accountName = "alona-qa"
+const accountName = "alona-qa";
 let driver;
 const TIMEOUT = 10000;
 
